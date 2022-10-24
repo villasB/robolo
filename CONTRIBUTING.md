@@ -6,11 +6,11 @@ suas interações com os nossos projetos, por favor leia e siga nosso
 [Código de Conduta](#codigo-de-conduta)
 
 # Índice
-1. [Criando um issue](#criando-issues)
+1. [Criando um issue](#criando-um-issue)
   1. [Template](#issue-template)
   2. [Example of a good issue](#example-task-rows-should-have-a-maximum-width)
 2. [Pull requests](#processo-de-pull-request)
-3. [Code of Conduct](#condigo-de-conduta)
+3. [Code of Conduct](#código-de-conduta)
 
 # Criando um issue
 
@@ -79,7 +79,10 @@ This is how it would look with a maximum width of 650px:
 
 ---
 
-# Pull Request Process
+# Processo de Pull Request
+
+Caso não saiba como realizar um pull request, siga este 
+[tutorial][tutorial-pr]
 
 1. Garanta que o seu código compila/roda.
 2. Se está adicionando novas interfaces ao projeto, elas devem estar
@@ -147,5 +150,6 @@ orientation.
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
 available at [http://contributor-covenant.org/version/1/4][version]
 
+[tutorial-pr]: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
